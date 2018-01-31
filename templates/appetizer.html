@@ -1,0 +1,24 @@
+{% extends 'layout.html' %}
+{% block body %}
+<body class="fixed-nav sticky-footer bg-dark" id="page-top">
+  <div class="content-wrapper">
+      <div class="container-fluid">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item">
+            <a href="/appetizers">Appetizers</a>
+          </li>
+          <li class="breadcrumb-item active">{{appetizer.name}}</li>
+        </ol>
+        <div class="row">
+          <div class="col-12">
+                <h1>{{appetizer.name}}</h1>
+                <p><strong>Ingredients:</strong>{{appetizer.ingredients | safe}}</p>
+                <p><strong>Price:</strong> {{appetizer.price}} manat</p>
+                <p><strong>Price:</strong> <img src="{{appetizer.image_url}}" alt=""> </p>
+                <p><strong>Date Created:</strong> {{appetizer.created_date}}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+{% endblock %}

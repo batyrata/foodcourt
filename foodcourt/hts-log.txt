@@ -1,0 +1,301 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 13 Jan 2018 15:30:34 at https://preview.ait-themes.club/theme/sushi/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://preview.ait-themes.club/theme/sushi/ -O1 "C:\My Web Sites\food" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:32:56	Error: 	"Forbidden" (403) at link https://preview.ait-themes.club/theme/sushi/xmlrpc.php (from https://preview.ait-themes.club/theme/sushi/)
+15:35:42	Error: 	"Forbidden" (403) at link https://preview.ait-themes.club/theme/sushi/xmlrpc.php?rsd (from https://preview.ait-themes.club/theme/sushi/)
+15:43:55	Warning: 	Found for https://preview.ait-themes.club/theme/sushi/checkout/
+15:43:55	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/checkout/ to https://preview.ait-themes.club/theme/sushi/cart/
+15:52:08	Warning: 	File not parsed, looks like binary: https://preview.ait-themes.club/theme/sushi/wp-content/plugins/revslider/public/assets/css/openhand.cur
+15:52:10	Warning: 	File not parsed, looks like binary: https://preview.ait-themes.club/theme/sushi/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+15:52:10	Warning: 	File not parsed, looks like binary: https://preview.ait-themes.club/theme/sushi/wp-content/themes/skeleton/design/fonts/awesome/fontawesome-webfont.woff2?v=4.7.0
+15:52:38	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=939
+15:52:38	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=939 to https://preview.ait-themes.club/theme/sushi/home-page/home-easy-slider/
+15:52:38	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/easy-slider/
+15:52:38	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/easy-slider/ to https://preview.ait-themes.club/theme/sushi/elements/easy-slider/
+15:53:32	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=1089
+15:53:32	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=1089 to https://preview.ait-themes.club/theme/sushi/home-page/home-big-slider/
+15:53:32	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=915
+15:53:32	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=915 to https://preview.ait-themes.club/theme/sushi/home-page/home/
+15:53:39	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/contact/
+15:53:39	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/contact/ to https://preview.ait-themes.club/theme/sushi/elements/contact-form-2/
+15:53:39	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=1013
+15:53:39	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=1013 to https://preview.ait-themes.club/theme/sushi/home-page/home-media/
+15:53:39	Error: 	"Not Found" (404) at link https://preview.ait-themes.club/theme/sushi/home-page/home-media/1&title=0&byline=0&portrait=0;api=1" (from https://preview.ait-themes.club/theme/sushi/home-page/home-media/)
+15:54:30	Error: 	"Not Found" (404) at link https://preview.ait-themes.club/theme/sushi/wp-content/themes/sushi/design/img/patterns/stripes.png (from https://preview.ait-themes.club/theme/sushi/home-page/home-corporate/)
+15:54:30	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=1155
+15:54:30	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=1155 to https://preview.ait-themes.club/theme/sushi/home-page/home-corporate/
+15:54:38	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=471
+15:54:38	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=471 to https://preview.ait-themes.club/theme/sushi/home-page/home-people/
+15:54:38	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=517
+15:54:38	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=517 to https://preview.ait-themes.club/theme/sushi/home-page/home-posts/
+15:54:38	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=769
+15:54:38	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=769 to https://preview.ait-themes.club/theme/sushi/home-page/home-posts-with-sidebar/
+15:54:38	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=1158
+15:54:38	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=1158 to https://preview.ait-themes.club/theme/sushi/home-page/home-longpage/
+15:55:02	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=1582
+15:55:02	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=1582 to https://preview.ait-themes.club/theme/sushi/elements/
+15:55:02	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=789
+15:55:02	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=789 to https://preview.ait-themes.club/theme/sushi/elements/advertisements/
+15:55:02	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=786
+15:55:02	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=786 to https://preview.ait-themes.club/theme/sushi/elements/columns/
+15:55:02	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=1081
+15:55:02	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=1081 to https://preview.ait-themes.club/theme/sushi/elements/contact-form-2/
+15:55:02	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=956
+15:55:02	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=956 to https://preview.ait-themes.club/theme/sushi/elements/countdown/
+15:55:02	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=959
+15:55:02	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=959 to https://preview.ait-themes.club/theme/sushi/elements/counters/
+15:55:02	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=1712
+15:55:02	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=1712 to https://preview.ait-themes.club/theme/sushi/elements/easy-slider/
+15:55:02	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=962
+15:55:02	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=962 to https://preview.ait-themes.club/theme/sushi/elements/events/
+15:55:02	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=977
+15:55:02	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=977 to https://preview.ait-themes.club/theme/sushi/elements/facebook/
+15:55:05	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=1004
+15:55:05	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=1004 to https://preview.ait-themes.club/theme/sushi/elements/faq/
+15:55:05	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=890
+15:55:05	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=890 to https://preview.ait-themes.club/theme/sushi/elements/google-map/
+15:55:05	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=1007
+15:55:05	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=1007 to https://preview.ait-themes.club/theme/sushi/elements/job-offers/
+15:55:05	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=798
+15:55:05	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=798 to https://preview.ait-themes.club/theme/sushi/elements/horizontal-rule/
+15:55:05	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=1010
+15:55:05	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=1010 to https://preview.ait-themes.club/theme/sushi/elements/member/
+15:55:05	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=1015
+15:55:05	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=1015 to https://preview.ait-themes.club/theme/sushi/elements/members/
+15:55:05	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=1022
+15:55:05	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=1022 to https://preview.ait-themes.club/theme/sushi/elements/mixcloud/
+15:55:05	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=1025
+15:55:05	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=1025 to https://preview.ait-themes.club/theme/sushi/elements/opening-hours/
+15:55:05	Error: 	"Not Found" (404) at link https://preview.ait-themes.club/theme/sushi/wp-content/uploads/sites/6/2013/11/city.jpg (from https://preview.ait-themes.club/theme/sushi/elements/partners/)
+15:55:05	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=1032
+15:55:05	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=1032 to https://preview.ait-themes.club/theme/sushi/elements/partners/
+15:55:05	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=906
+15:55:05	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=906 to https://preview.ait-themes.club/theme/sushi/elements/portfolio/
+15:55:09	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=1036
+15:55:09	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=1036 to https://preview.ait-themes.club/theme/sushi/elements/posts/
+15:55:09	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=801
+15:55:09	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=801 to https://preview.ait-themes.club/theme/sushi/elements/price-table/
+15:55:09	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=1039
+15:55:09	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=1039 to https://preview.ait-themes.club/theme/sushi/elements/services/
+15:55:09	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=1042
+15:55:09	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=1042 to https://preview.ait-themes.club/theme/sushi/elements/sitemap/
+15:55:31	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=1045
+15:55:31	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=1045 to https://preview.ait-themes.club/theme/sushi/elements/soundcloud/
+15:55:31	Error: 	"Not Found" (404) at link https://preview.ait-themes.club/theme/sushi/wp-content/uploads/sites/6/landscape.jpg (from https://preview.ait-themes.club/theme/sushi/elements/testimonials/)
+15:55:31	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=1056
+15:55:31	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=1056 to https://preview.ait-themes.club/theme/sushi/elements/testimonials/
+15:55:31	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=1059
+15:55:31	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=1059 to https://preview.ait-themes.club/theme/sushi/elements/text/
+15:55:31	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=1065
+15:55:31	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=1065 to https://preview.ait-themes.club/theme/sushi/elements/toggles/
+15:55:31	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=1000
+15:55:31	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=1000 to https://preview.ait-themes.club/theme/sushi/elements/twitter/
+15:55:31	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=1068
+15:55:31	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=1068 to https://preview.ait-themes.club/theme/sushi/elements/video/
+15:55:31	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=127
+15:55:31	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=127 to https://preview.ait-themes.club/theme/sushi/features/text-styles-and-classes/
+15:55:31	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=152
+15:55:31	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=152 to https://preview.ait-themes.club/theme/sushi/features/shortcodes/
+15:55:31	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=154
+15:55:31	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=154 to https://preview.ait-themes.club/theme/sushi/features/shortcodes/buttons/
+15:55:31	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=293
+15:55:31	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=293 to https://preview.ait-themes.club/theme/sushi/features/shortcodes/images/
+15:55:31	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=156
+15:55:31	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=156 to https://preview.ait-themes.club/theme/sushi/features/shortcodes/lists/
+15:55:31	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=295
+15:55:31	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=295 to https://preview.ait-themes.club/theme/sushi/features/shortcodes/modal-windows/
+15:55:31	Error: 	"Not Found" (404) at link https://preview.ait-themes.club/theme/sushi/wp-content/uploads/sites/6/icon_hover.png (from https://preview.ait-themes.club/theme/sushi/features/shortcodes/modal-windows/)
+15:55:31	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=297
+15:55:31	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=297 to https://preview.ait-themes.club/theme/sushi/features/shortcodes/notifications/
+15:55:40	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=1202
+15:55:40	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=1202 to https://preview.ait-themes.club/theme/sushi/contact-fullwidth-map/
+15:55:40	Warning: 	Retry after error -2 (Receive Time Out) at link https://preview.ait-themes.club/theme/sushi/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpreview.ait-themes.club%2Ftheme%2Fsushi%2Fcontact-fullwidth-map%2F (from https://preview.ait-themes.club/theme/sushi/contact-fullwidth-map/)
+15:55:43	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=1206
+15:55:43	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=1206 to https://preview.ait-themes.club/theme/sushi/contact-fullwidth-map/contact-with-slider/
+15:56:26	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=2462
+15:56:26	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=2462 to https://preview.ait-themes.club/theme/sushi/cart/
+15:56:30	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=2464
+15:56:30	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=2464 to https://preview.ait-themes.club/theme/sushi/my-account/
+15:56:38	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=96
+15:56:38	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=96 to https://preview.ait-themes.club/theme/sushi/product/california-sushi/
+15:56:57	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=2477
+15:56:57	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=2477 to https://preview.ait-themes.club/theme/sushi/product/shrimp-sushi-2/
+15:57:26	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=67
+15:57:26	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=67 to https://preview.ait-themes.club/theme/sushi/product/tobiko-sushi/
+15:57:44	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=60
+15:57:44	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=60 to https://preview.ait-themes.club/theme/sushi/product/sushi-ingredients/
+15:57:51	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=56
+15:57:51	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=56 to https://preview.ait-themes.club/theme/sushi/product/fresh-seaweed/
+15:58:00	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=53
+15:58:00	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=53 to https://preview.ait-themes.club/theme/sushi/product/tiger-shrimps-2/
+15:58:02	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=50
+15:58:02	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=50 to https://preview.ait-themes.club/theme/sushi/product/exclusive-set/
+15:58:16	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=47
+15:58:16	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=47 to https://preview.ait-themes.club/theme/sushi/product/menu-classic/
+15:58:25	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=1528
+15:58:25	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=1528 to https://preview.ait-themes.club/theme/sushi/portfolio-item/japan-soy-sauce/
+15:58:57	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=2128
+15:58:57	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=2128 to https://preview.ait-themes.club/theme/sushi/portfolio-item/nigiri-of-salmon-and-tuna/
+15:58:57	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=181
+15:58:57	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=181 to https://preview.ait-themes.club/theme/sushi/portfolio-item/ready-sushi-rolls/
+15:58:57	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=185
+15:58:57	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=185 to https://preview.ait-themes.club/theme/sushi/portfolio-item/nigiri-with-salmon/
+15:58:59	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=188
+15:58:59	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=188 to https://preview.ait-themes.club/theme/sushi/portfolio-item/sushi-with-fisheggs/
+15:59:00	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=1520
+15:59:00	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=1520 to https://preview.ait-themes.club/theme/sushi/portfolio-item/tobico-sushi/
+15:59:00	Warning: 	Retry after error -2 (Receive Time Out) at link https://preview.ait-themes.club/theme/sushi/wp-content/uploads/sites/6/cache/images/bigstock-Japanese-sushi-seafood-48069800/bigstock-Japanese-sushi-seafood-48069800-380619551.jpg (from https://preview.ait-themes.club/theme/sushi/portfolio-item/tobico-sushi/)
+15:59:00	Warning: 	Retry after error -2 (Receive Time Out) at link https://preview.ait-themes.club/theme/sushi/2014/06/18/health-from-the-seabed/feed/ (from https://preview.ait-themes.club/theme/sushi/2014/06/18/health-from-the-seabed/)
+15:59:01	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=1
+15:59:01	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=1 to https://preview.ait-themes.club/theme/sushi/2014/06/18/health-from-the-seabed/
+15:59:01	Warning: 	Retry after error -2 (Receive Time Out) at link https://preview.ait-themes.club/theme/sushi/2014/06/18/ (from https://preview.ait-themes.club/theme/sushi/2014/06/18/health-from-the-seabed/)
+15:59:03	Warning: 	Retry after error -4 (Connect Error) at link https://preview.ait-themes.club/theme/sushi/?p=942 (from https://preview.ait-themes.club/theme/sushi/features/element-settings/)
+15:59:03	Warning: 	Retry after error -4 (Connect Error) at link https://preview.ait-themes.club/theme/sushi/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpreview.ait-themes.club%2Ftheme%2Fsushi%2Ffeatures%2Felement-settings%2F (from https://preview.ait-themes.club/theme/sushi/features/element-settings/)
+15:59:03	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=1210
+15:59:03	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=1210 to https://preview.ait-themes.club/theme/sushi/2013/10/21/what-is-the-favorite-sushi/
+15:59:04	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=832
+15:59:04	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=832 to https://preview.ait-themes.club/theme/sushi/features/page-builder/
+15:59:04	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/features/element-settings/seo-settings/
+15:59:04	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/features/element-settings/seo-settings/ to https://preview.ait-themes.club/theme/sushi/features/seo-settings/
+15:59:04	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=804
+15:59:04	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=804 to https://preview.ait-themes.club/theme/sushi/features/theme-options/
+15:59:04	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=139
+15:59:04	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=139 to https://preview.ait-themes.club/theme/sushi/2013/07/31/focus-on-creativity/
+15:59:05	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=216
+15:59:05	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=216 to https://preview.ait-themes.club/theme/sushi/2013/09/05/invite-your-friends-to-a-sushi-party/
+15:59:05	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=1221
+15:59:05	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=1221 to https://preview.ait-themes.club/theme/sushi/2013/09/21/sushi-is-great-taste-experience/
+15:59:05	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=687
+15:59:05	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=687 to https://preview.ait-themes.club/theme/sushi/2013/10/02/traditional-japanese-cuisine/
+15:59:05	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=2611
+15:59:05	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=2611 to https://preview.ait-themes.club/theme/sushi/2014/06/18/delicacy-from-the-sea/
+15:59:05	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=2614
+15:59:05	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=2614 to https://preview.ait-themes.club/theme/sushi/2014/06/18/a-harmony-of-flavors/
+15:59:05	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=328
+15:59:05	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=328 to https://preview.ait-themes.club/theme/sushi/event/exhibition-of-sushi-catering/
+15:59:10	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=828
+15:59:10	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=828 to https://preview.ait-themes.club/theme/sushi/event/sushi-chef-conference/
+15:59:10	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=1219
+15:59:10	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=1219 to https://preview.ait-themes.club/theme/sushi/event/conference-of-best-japan-chefs/
+15:59:10	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=1284
+15:59:10	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=1284 to https://preview.ait-themes.club/theme/sushi/event/promotion-of-our-new-ricipe/
+15:59:11	Warning: 	Retry after error -2 (Receive Time Out) at link https://preview.ait-themes.club/theme/sushi/wp-content/uploads/sites/6/cache/images/bigstock-Japanese-sushi-seafood-48069800/bigstock-Japanese-sushi-seafood-48069800-722221638.jpg (from https://preview.ait-themes.club/theme/sushi/event/promotion-of-our-new-ricipe/)
+15:59:11	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=1563
+15:59:11	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=1563 to https://preview.ait-themes.club/theme/sushi/event/tasting-of-seafood-sushi/
+15:59:11	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=1570
+15:59:11	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=1570 to https://preview.ait-themes.club/theme/sushi/event/cooking-with-salmon/
+15:59:11	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=1573
+15:59:11	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=1573 to https://preview.ait-themes.club/theme/sushi/event/unique-sushi-tasting/
+15:59:12	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=1575
+15:59:12	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=1575 to https://preview.ait-themes.club/theme/sushi/event/holiday-in-the-sushi-hotel-restaurant/
+15:59:12	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=1522
+15:59:12	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=1522 to https://preview.ait-themes.club/theme/sushi/portfolio-item/fresh-salmon/
+15:59:12	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=190
+15:59:12	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=190 to https://preview.ait-themes.club/theme/sushi/portfolio-item/sushi-rice/
+15:59:12	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=1524
+15:59:12	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=1524 to https://preview.ait-themes.club/theme/sushi/portfolio-item/venetian-streets/
+15:59:12	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=2319
+15:59:12	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=2319 to https://preview.ait-themes.club/theme/sushi/portfolio-item/california-sushi/
+15:59:12	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=180
+15:59:12	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=180 to https://preview.ait-themes.club/theme/sushi/portfolio-item/sushi-with-shrimp/
+15:59:12	Error: 	"Not Found" (404) at link https://preview.ait-themes.club/theme/sushi/elements/facebook/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from connect.facebook.net/en_US/sdk.js)
+15:59:12	Error: 	"Not Found" (404) at link https://preview.ait-themes.club/theme/sushi/elements/facebook/^([^:/? (from connect.facebook.net/en_US/sdk.js)
+15:59:12	Error: 	"Not Found" (404) at link https://preview.ait-themes.club/theme/sushi/elements/facebook/dialog/ (from connect.facebook.net/en_US/sdk.js)
+15:59:12	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=2317
+15:59:12	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=2317 to https://preview.ait-themes.club/theme/sushi/portfolio-item/delicious-tiger-prawns/
+15:59:12	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=1584
+15:59:12	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=1584 to https://preview.ait-themes.club/theme/sushi/features/
+15:59:12	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=1815
+15:59:12	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=1815 to https://preview.ait-themes.club/theme/sushi/features/multiple-headers/
+15:59:12	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=2619
+15:59:12	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=2619 to https://preview.ait-themes.club/theme/sushi/features/megamenu/
+15:59:12	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=1420
+15:59:12	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=1420 to https://preview.ait-themes.club/theme/sushi/features/seo-settings/
+15:59:12	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/blog/page/1/
+15:59:12	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/blog/page/1/ to https://preview.ait-themes.club/theme/sushi/blog/
+15:59:17	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=31
+15:59:17	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=31 to https://preview.ait-themes.club/theme/sushi/product/nigiri-sushi/
+15:59:30	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/shop/page/1/
+15:59:30	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/shop/page/1/ to https://preview.ait-themes.club/theme/sushi/shop/
+16:00:10	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=40
+16:00:10	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=40 to https://preview.ait-themes.club/theme/sushi/product/ship-your-idea-2/
+16:00:17	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=37
+16:00:17	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=37 to https://preview.ait-themes.club/theme/sushi/product/tiger-shrimps/
+16:00:33	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/?p=942
+16:00:33	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/?p=942 to https://preview.ait-themes.club/theme/sushi/features/element-settings/
+16:00:33	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/author/admin/page/1/
+16:00:33	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/author/admin/page/1/ to https://preview.ait-themes.club/theme/sushi/author/admin/
+16:00:34	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/shop/page/1/?add-to-cart=96
+16:00:34	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/shop/page/1/?add-to-cart=96 to https://preview.ait-themes.club/theme/sushi/shop/?add-to-cart=96
+16:00:34	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/shop/page/1/?add-to-cart=50
+16:00:34	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/shop/page/1/?add-to-cart=50 to https://preview.ait-themes.club/theme/sushi/shop/?add-to-cart=50
+16:00:34	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/shop/page/1/?add-to-cart=56
+16:00:34	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/shop/page/1/?add-to-cart=56 to https://preview.ait-themes.club/theme/sushi/shop/?add-to-cart=56
+16:00:34	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/shop/page/1/?add-to-cart=47
+16:00:34	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/shop/page/1/?add-to-cart=47 to https://preview.ait-themes.club/theme/sushi/shop/?add-to-cart=47
+16:00:35	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/shop/page/1/?add-to-cart=31
+16:00:35	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/shop/page/1/?add-to-cart=31 to https://preview.ait-themes.club/theme/sushi/shop/?add-to-cart=31
+16:00:35	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/shop/page/1/?add-to-cart=2477
+16:00:35	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/shop/page/1/?add-to-cart=2477 to https://preview.ait-themes.club/theme/sushi/shop/?add-to-cart=2477
+16:00:35	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/shop/page/1/?add-to-cart=60
+16:00:35	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/shop/page/1/?add-to-cart=60 to https://preview.ait-themes.club/theme/sushi/shop/?add-to-cart=60
+16:00:35	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/shop/page/1/?add-to-cart=37
+16:00:35	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/shop/page/1/?add-to-cart=37 to https://preview.ait-themes.club/theme/sushi/shop/?add-to-cart=37
+16:00:36	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/shop/page/1/?add-to-cart=53
+16:00:36	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/shop/page/1/?add-to-cart=53 to https://preview.ait-themes.club/theme/sushi/shop/?add-to-cart=53
+16:00:39	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/shop/page/1/?add-to-cart=67
+16:00:39	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/shop/page/1/?add-to-cart=67 to https://preview.ait-themes.club/theme/sushi/shop/?add-to-cart=67
+16:00:42	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 11603 expected)) at link https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/page/2/?add-to-cart=47 (from https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/?add-to-cart=47)
+16:00:57	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/page/1/
+16:00:57	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/page/1/ to https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/
+16:01:43	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/others/page/1/
+16:01:43	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/others/page/1/ to https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/others/
+16:02:05	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/portfolios/category-3/page/1/
+16:02:05	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/portfolios/category-3/page/1/ to https://preview.ait-themes.club/theme/sushi/portfolios/category-3/
+16:02:05	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/portfolios/main/page/1/
+16:02:05	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/portfolios/main/page/1/ to https://preview.ait-themes.club/theme/sushi/portfolios/main/
+16:02:05	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/event/page/1/
+16:02:05	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/event/page/1/ to https://preview.ait-themes.club/theme/sushi/event/
+16:02:05	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/page/1/?add-to-cart=96
+16:02:05	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/page/1/?add-to-cart=96 to https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/?add-to-cart=96
+16:02:05	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/page/1/?add-to-cart=50
+16:02:05	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/page/1/?add-to-cart=50 to https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/?add-to-cart=50
+16:02:05	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/page/1/?add-to-cart=56
+16:02:05	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/page/1/?add-to-cart=56 to https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/?add-to-cart=56
+16:02:17	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/page/1/?add-to-cart=31
+16:02:17	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/page/1/?add-to-cart=31 to https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/?add-to-cart=31
+16:02:17	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/page/1/?add-to-cart=2477
+16:02:17	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/page/1/?add-to-cart=2477 to https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/?add-to-cart=2477
+16:02:17	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/page/1/?add-to-cart=60
+16:02:17	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/page/1/?add-to-cart=60 to https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/?add-to-cart=60
+16:02:18	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/page/1/?add-to-cart=37
+16:02:18	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/page/1/?add-to-cart=37 to https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/?add-to-cart=37
+16:02:20	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/page/1/?add-to-cart=53
+16:02:20	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/page/1/?add-to-cart=53 to https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/?add-to-cart=53
+16:02:21	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/page/1/?add-to-cart=67
+16:02:21	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/page/1/?add-to-cart=67 to https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/?add-to-cart=67
+16:02:22	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/others/page/1/?add-to-cart=50
+16:02:22	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/others/page/1/?add-to-cart=50 to https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/others/?add-to-cart=50
+16:02:22	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/others/page/1/?add-to-cart=56
+16:02:22	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/others/page/1/?add-to-cart=56 to https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/others/?add-to-cart=56
+16:02:22	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/others/page/1/?add-to-cart=2477
+16:02:22	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/others/page/1/?add-to-cart=2477 to https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/others/?add-to-cart=2477
+16:02:22	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/others/page/1/?add-to-cart=60
+16:02:22	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/others/page/1/?add-to-cart=60 to https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/others/?add-to-cart=60
+16:02:22	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/others/page/1/?add-to-cart=37
+16:02:22	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/others/page/1/?add-to-cart=37 to https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/others/?add-to-cart=37
+16:02:22	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/others/page/1/?add-to-cart=53
+16:02:22	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/others/page/1/?add-to-cart=53 to https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/others/?add-to-cart=53
+16:02:22	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/others/page/1/?add-to-cart=67
+16:02:22	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/others/page/1/?add-to-cart=67 to https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/others/?add-to-cart=67
+16:02:22	Warning: 	Retry after error -4 (Connect Error) at link https://preview.ait-themes.club/theme/sushi/product/tiger-shrimps/?add-to-cart=2477 (from https://preview.ait-themes.club/theme/sushi/product/tiger-shrimps/?add-to-cart=31)
+16:02:22	Warning: 	Moved Permanently for https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/page/1/?add-to-cart=47
+16:02:22	Warning: 	File has moved from https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/page/1/?add-to-cart=47 to https://preview.ait-themes.club/theme/sushi/product-category/sushi-2/?add-to-cart=47
+
+HTTrack Website Copier/3.49-2 mirror complete in 31 minutes 51 seconds : 1340 links scanned, 1186 files written (65340859 bytes overall) [48292758 bytes received at 25270 bytes/sec], 22312391 bytes transferred using HTTP compression in 647 files, ratio 18%, 3.9 requests per connection
+(10 errors, 280 warnings, 0 messages)

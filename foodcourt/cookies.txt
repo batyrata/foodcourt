@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+preview.ait-themes.club	TRUE	/theme/	FALSE	1999999999	woocommerce_recently_viewed	2477%7C67%7C53%7C47%7C31%7C96%7C60%7C56%7C50%7C40%7C37
+preview.ait-themes.club	TRUE	/theme/	FALSE	1999999999	woocommerce_items_in_cart	1
+preview.ait-themes.club	TRUE	/theme/	FALSE	1999999999	woocommerce_cart_hash	6a1876b60074c4235d6bc8d0179e0182
+preview.ait-themes.club	TRUE	/theme/	FALSE	1999999999	wp_woocommerce_session_03034c79923170e0db48fa67918835f8	7b7986b462019de7472b48620cd220cb%7C%7C1516011916%7C%7C1516008316%7C%7C8d72952eec665e8679d6776622a6c5d1
+

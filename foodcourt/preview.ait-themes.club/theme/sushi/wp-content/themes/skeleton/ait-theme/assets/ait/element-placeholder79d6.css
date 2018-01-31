@@ -1,0 +1,39 @@
+/* AIT Alerts & Placeholders */
+
+.layout-narrow .ait-elm-placeholder-wrapper 		{ padding: 25px; }
+.ait-elm-placeholder-wrapper						{ margin: auto; padding: 20px 0; }
+.ait-elm-placeholder 								{ position: relative; overflow: hidden; padding: 30px 0;
+													  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+													  font-size: 16px; color: #666; background: #fff; box-shadow: 0 0 15px rgba(0,0,0,0.09); text-align: left; }
+.ait-elm-placeholder h2								{ display: inline-block; vertical-align: top; font-size: 24px; font-weight: 400 !important; line-height: 1.2; margin: 0 0 0.3em 0; }
+
+.ait-elm-placeholder .ait-elm-placeholder-icon 				{ position: absolute; right: -30px; top: -30px; text-align: center; }
+.ait-elm-placeholder .ait-elm-placeholder-icon i			{ font-size: 60px; line-height: 155px; width: 155px; height: 155px; border: 6px solid currentColor; border-radius: 100%; }
+.ait-elm-placeholder .ait-elm-placeholder-icon i:after 		{ content: ""; position: absolute; left: -2px; top: -6px; width: 155px; height: 155px; border: 10px solid rgba(255,255,255,0.8); border-radius: 100%; }
+
+.ait-elm-placeholder .ait-elm-placeholder-content			{ position: relative; display: inline-block; }
+.ait-elm-placeholder .ait-elm-placeholder-content > * + *	{ margin-top: 25px; }
+.ait-elm-placeholder .ait-elm-placeholder-text 				{ font-weight: 300 !important; line-height: 1.4; padding: 0 30px; }
+.ait-elm-placeholder .ait-elm-placeholder-text > *			{ background: rgba(255,255,255,0.7); box-shadow: 0 0 30px 10px rgba(255,255,255,1); }
+.ait-elm-placeholder .ait-elm-placeholder-button 			{ display: inline-block; vertical-align: top; font-size: 14px; font-weight: bold; line-height: 1.1; margin-right: 30px; padding: 13px 30px; color: #fff; text-transform: uppercase; }
+.ait-elm-placeholder .ait-elm-placeholder-button > *		{ color: #fff; }
+.ait-elm-placeholder .ait-elm-placeholder-button i			{ margin-right: 5px; }
+.ait-elm-placeholder .ait-elm-placeholder-button:hover		{ opacity: 0.9; box-shadow: 0 5px 10px -5px currentColor; }
+
+.column-grid-3 .column-span-1 .ait-elm-placeholder,
+.column-grid-4 .column-span-1 .ait-elm-placeholder,
+.column-grid-5 .column-span-1 .ait-elm-placeholder,
+.column-grid-6 .column-span-1 .ait-elm-placeholder			{ padding: 95px 0 50px; }
+
+.column-grid-3 .column-span-1 .ait-elm-placeholder .ait-elm-placeholder-content,
+.column-grid-4 .column-span-1 .ait-elm-placeholder .ait-elm-placeholder-content,
+.column-grid-5 .column-span-1 .ait-elm-placeholder .ait-elm-placeholder-content,
+.column-grid-6 .column-span-1 .ait-elm-placeholder .ait-elm-placeholder-content		{ max-width: 280px; }
+
+@media all and (max-width: 480px) {
+	/*** * START 480 * ***/
+
+	.ait-elm-placeholder { padding: 95px 0 50px; }
+
+	/*** * END 480 * ***/
+}

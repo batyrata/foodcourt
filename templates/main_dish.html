@@ -1,0 +1,23 @@
+{% extends 'layout.html' %}
+{% block body %}
+<body class="fixed-nav sticky-footer bg-dark" id="page-top">
+  <div class="content-wrapper">
+      <div class="container-fluid">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item">
+            <a href="/main_dishes">Main Dishes</a>
+          </li>
+          <li class="breadcrumb-item active">{{main_dish.name}}</li>
+        </ol>
+        <div class="row">
+          <div class="col-12">
+                <h1>{{main_dish.name}}</h1>
+                <p><strong>Ingredients:</strong>{{main_dish.ingredients | safe}}</p>
+                <p><strong>Price:</strong> {{main_dish.price}} manat</p>
+                <p><strong>Date Created:</strong> {{main_dish.created_date}}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+{% endblock %}
